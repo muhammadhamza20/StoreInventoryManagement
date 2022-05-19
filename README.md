@@ -7,4 +7,4 @@ Beginners Guide for getting started with Web Api project using Code First approa
 3. Run the Project.
 
 Postman Collection Documentation:
-https://documenter.getpostman.com/view/8019363/UyxnFQqv
+https://documenter.getpostman.com/view/8019363/UyxnFQr2
